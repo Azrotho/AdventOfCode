@@ -1,2 +1,6 @@
 *.txt
 .vscode/
+*dist/
+*.log
+*.env
+node_modules/
