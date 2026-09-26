@@ -8,3 +8,11 @@ node_modules/
 # Rust
 target/
 Cargo.lock
+
+# Odin
+*.exe
+*.pdb
+*.o
+*.obj
+*.a
+*.lib
